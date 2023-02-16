@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Lotto</string>
+
+    <string name="percent_title">당첨 횟수로 번호 생성</string>
+    <string name="percent_date">업데이트 완료 : 1050회 (2023.01.14)</string>
+    <string name="random_title">랜덤으로 번호 생성</string>
+    <string name="constellation_title">별자리로 번호 생성</string>
+    <string name="name_title">이름으로 번호 생성</string>
+
+    <string name="constellation_star">별자리 이름</string>
+    <string name="constellation_date">별자리 날짜</string>
+    
+    <string name="constellation_aries">양자리</string>
+    <string name="constellation_aries_date">3월 21일 ~ 4월 19일</string>
+    <string name="constellation_taurus">황소자리</string>
+    <string name="constellation_taurus_date">4월 20일 ~ 5월 20일</string>
+    <string name="constellation_gemini">쌍둥이자리</string>
+    <string name="constellation_gemini_date">5월 21일 ~ 6월 21일</string>
+    <string name="constellation_cancer">게자리</string>
+    <string name="constellation_cancer_date">6월 22일 ~ 7월 22일</string>
+    <string name="constellation_leo">사자자리</string>
+    <string name="constellation_leo_date">7월 23일 ~ 8월 22일</string>
+    <string name="constellation_virgo">처녀자리</string>
+    <string name="constellation_virgo_date">8월 23일 ~ 9월 22일</string>
+    <string name="constellation_libra">천칭자리</string>
+    <string name="constellation_libra_date">9월 23일 ~ 10월 22일</string>
+    <string name="constellation_scorpio">전갈자리</string>
+    <string name="constellation_scorpio_date">10월 23일 ~ 11월 22일</string>
+    <string name="constellation_sagittarius">궁수자리</string>
+    <string name="constellation_sagittarius_date">11월 23일 ~ 12월 24일</string>
+    <string name="constellation_capricorn">염소자리</string>
+    <string name="constellation_capricorn_date">12월 25일 ~ 1월 19일</string>
+    <string name="constellation_aquarius">물병자리</string>
+    <string name="constellation_aquarius_date">1월 20일 ~ 2월 18일</string>
+    <string name="constellation_pisces">물고기자리</string>
+    <string name="constellation_pisces_date">2월 19일 ~ 3월 20일</string>
+
+    <string name="name_hint">이름을 입력하세요</string>
+
+    <string name="btn_start">번호 생성</string>
+
+    <string name="result_title">랜덤으로 생성된\n로또번호입니다</string>
+    <string name="result_num_ex">45</string>
+</resources>
